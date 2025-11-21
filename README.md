@@ -3,7 +3,7 @@
 A visually rich demonstration dashboard showcasing daily and weekly operational insights.  
 This dashboard is designed to reflect real-world reporting tasks such as resource planning, trend analysis, backlog monitoring, and performance tracking.
 
-![Dashboard Preview](A_Tableau_dashboard_image_titled_"Operational_Perf.png")
+![Dashboard Preview](https://github.com/pubgithub/markapture/blob/main/Operational%20Dashboard.png)
 
 > *This dashboard image was generated as part of a demonstration to showcase reporting and dashboard design skills.*
 
